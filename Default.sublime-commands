@@ -1,0 +1,7 @@
+[
+    // Wrap Markdown Code Block
+    {
+        "caption": "MdCodeBlock: Wrap Github Flavered Code Block",
+        "command": "prompt_md_code_block"
+    }
+]
