@@ -1,4 +1,4 @@
-MdCodeBlock
+MarkdownCodeBlockWrapper
 ===========
 
 A simple helper for wrapping Github Flavored Markdown Code Block.
